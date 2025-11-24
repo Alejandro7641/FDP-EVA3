@@ -1,0 +1,29 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Instale la versión más reciente de PowerShell para obtener nuevas características y mejoras. https://aka.ms/PSWindows
+
+PS C:\Users\alexn> cd\
+PS C:\> cd practicas
+PS C:\practicas> dir
+
+
+    Directorio: C:\practicas
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----     14/11/2025  04:52 p. m.            102 Prueba.java
+
+
+PS C:\practicas> java Practica>java
+Error: Could not find or load main class Practica>java
+Caused by: java.lang.ClassNotFoundException: Practica>java
+PS C:\practicas> java Practica.java
+Error: Could not find or load main class Practica.java
+Caused by: java.lang.ClassNotFoundException: Practica.java
+PS C:\practicas> java Prueba.java
+Hola Mundo
+PS C:\practicas>
+
+
